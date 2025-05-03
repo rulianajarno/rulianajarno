@@ -1,4 +1,4 @@
-## Olá, eu sou a Ruli, desenvolvedora fullstack e instrutora front-end na Cubos Academy
+## Olá, eu sou a Ruli, desenvolvedora fullstack e instrutora de programação
 
 <div align="center">
   <a href="https://github.com/rulianajarno">
